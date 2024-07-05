@@ -1,0 +1,22 @@
+#id1{
+    background-color: rgb(116, 116, 233);
+    width: 600px;
+    height: 600px;
+    margin: auto;
+}
+
+#id2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#tablo{
+    width: 100px;
+    height: 400px;
+    margin: auto;
+}
+
+.clas1{
+    font-size: 20px;
+}
