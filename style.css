@@ -1,6 +1,4 @@
-/*CSS Dosyası*/
 
-/* Boşlukları Sıfırla */
 *{
     margin: 0px;
     padding: 0px;
@@ -15,7 +13,6 @@
 }
 
 
-/*Banner */
 #banner{
     width: 888;
     min-height: 100px;
@@ -25,7 +22,7 @@
     margin: auto;
 }
 
-/*Logo */
+
 #logo img {
     width: 100px;
     height: 80px;
@@ -37,7 +34,7 @@
     left: 10px;
     float: left;
 }
-/*sosyal medya ikonları*/
+
 #sosyal{
     width: 80px;
     height: 40px;
@@ -50,9 +47,6 @@
     right: 10px;
 }
 
-
-
-/*Anamenü*/
 #anamenu{
     width: 900px;
     height: 50px;
@@ -101,7 +95,6 @@
     text-decoration: underline;
 }
 
-/*icerik*/
 #icerik {
     width: 600px;
     min-height: 400px;
